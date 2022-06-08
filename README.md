@@ -100,6 +100,8 @@
 
 
 ## Spotify Listening  
+
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   
 
 <br/>  
@@ -222,4 +224,4 @@ I’m a geek and Front-end engineer
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+
