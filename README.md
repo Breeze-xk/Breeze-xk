@@ -101,12 +101,13 @@
 
 ## Spotify Listening  
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+
   
 
 <br/>  
 
 <div align="center">
+  <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <img src="https://komarev.com/ghpvc/?username=Breeze-xk&&style=flat-square" align="center" />
 </div>  
   
