@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Breeze-xk, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>  
+### <div align="center" fontSize="20px">I'm Breeze-xk, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>  
   
 
 - 🎡 I am currently working in Tianjin, China and living a comfortable 9 to 5 life.  
