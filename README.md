@@ -100,14 +100,15 @@
 
 
 ## Spotify Listening  
-
-
   
-
 <br/>  
 
 <div align="center">
-  <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+ <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+</div>  
+
+<br/>  
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Breeze-xk&&style=flat-square" align="center" />
 </div>  
   
@@ -131,6 +132,11 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
+
 
 
 
