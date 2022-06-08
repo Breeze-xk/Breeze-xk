@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%; height: 100px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%,height: 100px" />
 </div>  
   
 
-### <div align="center">I'm Breeze, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>  
+### <div align="center">I'm Breeze-xk, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>  
   
 
 - 🎡 I am currently working in Tianjin, China and living a comfortable 9 to 5 life.  
@@ -81,14 +81,19 @@
 
   
 
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Breeze-xk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Breeze-xk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breeze-xk&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
-
+<br />
   
 
 <br/>  
@@ -211,19 +216,7 @@ I’m a geek and Front-end engineer
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzihuaner&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzihuaner&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
