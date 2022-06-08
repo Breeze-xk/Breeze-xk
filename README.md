@@ -4,7 +4,7 @@
   
 
 ###   <p>
-  <img src="https://count.getloli.com/get/@:muzihuaner" alt=":muzihuaner" />
+
   <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
   
   <div align="center">I'm Breeze-xk, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>  
