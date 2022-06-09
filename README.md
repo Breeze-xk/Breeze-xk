@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Breeze-xk, A senior front-end engineer👨‍💻  and amateur angler🎣. working since 2017 till now🚀</div>   
-<br><div align="center"><img src="https://count.getloli.com/get/@:muzihuaner" alt=":muzihuaner" /></div></br>
+<br><div align="center"><img src="https://count.getloli.com/get/@:Breeze-xk" alt=":Breeze-xk" /></div></br>
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
 </p> 
